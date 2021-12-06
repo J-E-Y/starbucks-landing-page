@@ -1,0 +1,7 @@
+{
+  "homepage": "https://J-E-Y.github.io/startbucks-landing-age",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "deploy":"gh-pages -d dist"
+  }
+}
