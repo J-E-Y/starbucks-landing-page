@@ -1,5 +1,5 @@
 {
-  "homepage": "https://J-E-Y.github.io/startbucks-landing-age",
+  "homepage": "https://J-E-Y.github.io/startbucks-landing-page",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "deploy":"gh-pages -d dist"
