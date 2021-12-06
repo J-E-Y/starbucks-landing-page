@@ -1,7 +1,10 @@
 {
   "homepage": "https://J-E-Y.github.io/startbucks-landing-page",
-  "dependencies": {
-    "gh-pages": "^3.2.3",
+  "scripts":{
     "deploy":"gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+
   }
 }
